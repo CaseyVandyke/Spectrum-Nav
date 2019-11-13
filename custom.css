@@ -1,0 +1,44 @@
+#page-desktop{ position: static}
+#body_div{ background: #FFFFFF}
+.main-section{ background: #222d32}
+.page-head{ position: static}
+.page-content{ margin-top:0}
+header .container{ width:100%; padding:0px 25px 0 0; min-height: 50px;}
+.navbar-brand{ padding: 0 15px 0 15px; line-height: 50px; height: 50px;}
+#navbar-breadcrumbs > li > a{ padding: 11px 15px 15px 0px}
+.navbar-form{ margin-top:10px;}
+.navbar .dropdown-toggle{padding:13px 15px}
+header .dropdown-help{display:none}
+.main-header .sidebar-toggle{text-decoration: none;}
+
+
+#page-desktop{ background-color:#FFFFFF !important}
+
+.layout-side-section{
+    font-size: 15px;
+    background-color: #fafbf7;
+    border-radius: 10px;
+    top: 10px;
+    right: 8px;
+    bottom: 10px;
+    border: 1px solid #3596f3;
+        border-top-color: #3596f3;
+        border-right-color: #3596f3;
+        border-bottom-color: #3596f3;
+        border-left-color: #3596f3;
+}
+.no-result .result-list {
+    background-color: #fafbf7;
+    border: 1px solid #3596f3;
+        border-top-color: #3596f3;
+        border-right-color: #3596f3;
+        border-bottom-color: #3596f3;
+        border-left-color: #3596f3;
+}
+.sidebar-menu .badge {
+  position: absolute;
+  font-weight: normal;
+  right: 12px;
+  top: 50px;
+  padding-bottom: 4px;
+}
